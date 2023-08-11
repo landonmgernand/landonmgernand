@@ -3,7 +3,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 ### Landon Gernand - Full stack web developer
 
 - :mailbox: landonmgernand@gmail.com
-
+![](https://komarev.com/ghpvc/?username=landonmgernand)
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time FreeLancer and a searching for a Job Full-Time. 
